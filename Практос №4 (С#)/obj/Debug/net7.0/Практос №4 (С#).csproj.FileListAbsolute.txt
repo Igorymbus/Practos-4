@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\bin\Debug\net7.0\Практос №4 (С#).exe
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\bin\Debug\net7.0\Практос №4 (С#).deps.json
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\bin\Debug\net7.0\Практос №4 (С#).runtimeconfig.json
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\bin\Debug\net7.0\Практос №4 (С#).dll
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\bin\Debug\net7.0\Практос №4 (С#).pdb
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\Практос №4 (С#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\Практос №4 (С#).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\Практос №4 (С#).AssemblyInfo.cs
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\Практос №4 (С#).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\Практос №4 (С#).dll
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\refint\Практос №4 (С#).dll
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\Практос №4 (С#).pdb
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\Практос №4 (С#).genruntimeconfig.cache
+C:\Users\user\source\repos\Практос №4 (С#)\Практос №4 (С#)\obj\Debug\net7.0\ref\Практос №4 (С#).dll
